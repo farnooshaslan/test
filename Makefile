@@ -4,5 +4,6 @@ run:
 build:
 	docker-compose build
 
-push:
-	docker
+push: build
+	docker push sighup/powerapp-frontend
+	docker push sighup/powerapp-backend
