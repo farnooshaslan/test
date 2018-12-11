@@ -1,4 +1,4 @@
-# PowerApp
+# PowerApp by [SIGHUP](https://sighup.io)
 
 This is PowerApp, a learning-friendly application used by [SIGHUP](https://sighup.io) during the delivery of many of its workshops. The goal of this application is to provide a simple-yet-realistic standard architecture to use as a starting point during our trainings and workshops.
 
