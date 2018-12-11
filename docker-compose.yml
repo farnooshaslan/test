@@ -6,7 +6,7 @@ services:
   web:
     image: "sighup/powerapp-frontend"
     build:
-      context: ./web
+      context: ./frontend
     environment:
       - "BACKEND_HOST=backend"
     ports:
