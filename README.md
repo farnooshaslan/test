@@ -8,7 +8,7 @@ If you are looking for Kubernetes professional trainings or workshops, [email us
 
 The current application has a multi-tiered architecture with standard `frontend <-> backend <-> db`.
 
-![PowerApp architecture](images/architecture.jpg)
+![PowerApp architecture](images/architecture.png)
 
 
 ## docker-compose
