@@ -1,6 +1,6 @@
 ---
 
-version: "3"
+version: "2"
 
 services:
   web:
@@ -35,7 +35,7 @@ services:
       - "kubeprimer"
 
 volumes:
-  kubeprimer-db:
+  kubeprimer-db:  
 
 networks:
   kubeprimer:
